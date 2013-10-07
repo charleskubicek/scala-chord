@@ -1,0 +1,7 @@
+out
+target
+project
+lib
+.idea
+.idea_modules
+sbt/target
